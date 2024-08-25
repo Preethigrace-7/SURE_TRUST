@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/preethi-grace/Parity encoder/Parity encoder.srcs/sources_1/new/parity_encoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module parity_encoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/preethi-grace/Parity encoder/Parity encoder.srcs/sim_1/new/parity_encoder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module parity_encoder_tb

@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+At time                    0, in = 0, out = 0
+At time                15000, in = 1, out = 0
+At time                25000, in = 0, out = 0
+At time                45000, in = 1, out = 1
+At time                55000, in = 1, out = 0
+At time                65000, in = 0, out = 0
+At time                75000, in = 1, out = 0
+At time                85000, in = 0, out = 0
+$finish called at time : 185 ns : File "/home/preethi-grace/Assignment 1/Assignment 1.srcs/sim_1/new/sd_1001_tb.v" Line 60

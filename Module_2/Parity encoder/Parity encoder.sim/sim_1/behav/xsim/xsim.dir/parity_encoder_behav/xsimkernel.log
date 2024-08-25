@@ -1,0 +1,7 @@
+Running: xsim.dir/parity_encoder_behav/xsimk -simmode gui -wdb parity_encoder_behav.wdb -simrunnum 0 -socket 49609
+Design successfully loaded
+Design Loading Memory Usage: 20144 KB (Peak: 20608 KB)
+Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 101880 KB (Peak: 159412 KB)
+Simulation CPU Usage: 30 ms

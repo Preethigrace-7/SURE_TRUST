@@ -1,0 +1,7 @@
+Running: xsim.dir/m10count_behav/xsimk -simmode gui -wdb m10count_behav.wdb -simrunnum 0 -socket 34335
+Design successfully loaded
+Design Loading Memory Usage: 20148 KB (Peak: 20612 KB)
+Design Loading CPU Usage: 40 ms
+Simulation completed
+Simulation Memory Usage: 101884 KB (Peak: 159416 KB)
+Simulation CPU Usage: 90 ms

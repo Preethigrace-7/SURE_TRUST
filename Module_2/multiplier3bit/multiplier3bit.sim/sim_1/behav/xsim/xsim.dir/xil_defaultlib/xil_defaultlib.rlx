@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/preethi-grace/multiplier3bit/multiplier3bit.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+/home/preethi-grace/multiplier3bit/multiplier3bit.srcs/sources_1/new/fulladder.v,1723215126,verilog,,/home/preethi-grace/multiplier3bit/multiplier3bit.srcs/sources_1/new/halfadder.v,,full_add,,,,,,,,
+/home/preethi-grace/multiplier3bit/multiplier3bit.srcs/sources_1/new/halfadder.v,1723215096,verilog,,/home/preethi-grace/multiplier3bit/multiplier3bit.srcs/sources_1/new/multiplier3bit_GL.v,,half_add,,,,,,,,
+/home/preethi-grace/multiplier3bit/multiplier3bit.srcs/sources_1/new/multiplier3bit_GL.v,1723216665,verilog,,,,multipy3bit,,,,,,,,
