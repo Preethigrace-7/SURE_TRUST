@@ -1,7 +1,0 @@
-Running: xsim.dir/mult3x3_tb_behav/xsimk -simmode gui -wdb mult3x3_tb_behav.wdb -simrunnum 0 -socket 56317
-Design successfully loaded
-Design Loading Memory Usage: 20168 KB (Peak: 20620 KB)
-Design Loading CPU Usage: 20 ms
-Simulation completed
-Simulation Memory Usage: 101904 KB (Peak: 159436 KB)
-Simulation CPU Usage: 20 ms

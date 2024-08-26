@@ -1,7 +1,0 @@
-Running: xsim.dir/count_up_down_behav/xsimk -simmode gui -wdb count_up_down_behav.wdb -simrunnum 0 -socket 49143
-Design successfully loaded
-Design Loading Memory Usage: 20148 KB (Peak: 20612 KB)
-Design Loading CPU Usage: 20 ms
-Simulation completed
-Simulation Memory Usage: 101884 KB (Peak: 159416 KB)
-Simulation CPU Usage: 20 ms
