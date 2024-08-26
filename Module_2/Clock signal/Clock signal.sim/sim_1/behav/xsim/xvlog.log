@@ -1,7 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/preethi-grace/Clock signal/Clock signal.srcs/sources_1/new/dutycycle_40.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module duty_cycle_40
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/preethi-grace/Clock signal/Clock signal.srcs/sim_1/new/clk_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module clk_tb
-ERROR: [VRFC 10-1280] procedural assignment to a non-register clk is not permitted, left-hand side should be reg/integer/time/genvar [/home/preethi-grace/Clock signal/Clock signal.srcs/sim_1/new/clk_tb.v:32]
-ERROR: [VRFC 10-1280] procedural assignment to a non-register clk is not permitted, left-hand side should be reg/integer/time/genvar [/home/preethi-grace/Clock signal/Clock signal.srcs/sim_1/new/clk_tb.v:33]
-ERROR: [VRFC 10-8530] module 'clk_tb' is ignored due to previous errors [/home/preethi-grace/Clock signal/Clock signal.srcs/sim_1/new/clk_tb.v:23]
